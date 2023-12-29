@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Coleene</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on [Gest'Loc](https://github.com/ColeeneP/ProjetFinalBachelor)
+- 🔭 I’m currently working on Gaming Development in LUA
 
-- 🌱 I’m currently learning **Java & Angular**
+- 🌱 I’m currently learning **DPO certification**
 
 - 📫 How to reach me **coleene.poudevigne@live.fr**
 
